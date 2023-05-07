@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "name": "Sarah Doe",
+      "email": "johndoe@example.com",
+      "avatar": "https://images.pexels.com/photos/6347901/pexels-photo-6347901.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+      "name": "Kim sosa",
+      "email": "paul@gmail.com",
+      "avatar": "https://images.pexels.com/photos/16518902/pexels-photo-16518902.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+      "name": "Ape kills",
+      "email": "apestill@gmail.com",
+      "avatar": "https://news.artnet.com/app/news-upload/2021/09/Yuga-Labs-Bored-Ape-Yacht-Club-4466.jpg"
+    },
+    {
+      "name": "Ape Bossy",
+      "email": "apeboss@gmail.com",
+      "avatar": "https://media.voguebusiness.com/photos/61b8dfb99ba90ab572dea0bd/2:3/w_2560%2Cc_limit/adidas-nft-voguebus-adidas-nft-dec-21-story.jpg"
+    },
+    {
+      "name": "heman skills",
+      "email": "heman@gmail.com",
+      "avatar": "https://gobookmart.com/wp-content/uploads/2022/11/Origin-Story-of-He-Man-2.jpg"
+    },
+    {
+      "name": "skelator",
+      "email": "skelator@gmail.com",
+      "avatar": "https://www.writeups.org/wp-content/uploads/Skeletor-Masters-Universe-cartoon-h5-frustration-big.jpg"
+    }
+  ]
+}
